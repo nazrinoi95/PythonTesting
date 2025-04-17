@@ -75,3 +75,4 @@ print(kam1["tarikh lahir"])
 nama= ["list1","list2","list3", "List4"]
 print(f"Nama orang kedua:{nama[1]}")
 print (f"Nama orang pertama: {nama[0]}")
+print (f"Nama orang last: {nama[-1]}")
